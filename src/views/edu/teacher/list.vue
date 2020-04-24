@@ -102,7 +102,7 @@ export default {
       list: null, // 数据列表
       total: 0, // 总记录数
       page: 1, // 页码
-      limit: 2, // 每页记录数
+      limit: 4, // 每页记录数
       searchObj: {}// 查询条件
     }
   },
